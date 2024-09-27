@@ -1,0 +1,21 @@
+.home-container {
+  min-height: 100vh;
+}
+
+.heading {
+  color: #e50914;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.items-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.link-styling {
+  text-decoration: none;
+  outline: none;
+}

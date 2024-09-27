@@ -1,0 +1,13 @@
+.heading {
+  color: #e50914;
+  font-weight: bold;
+  margin-left: 10px;
+  max-width: 280px;
+}
+
+
+.link-styling {
+  text-decoration: none;
+  outline: none;
+}
+
